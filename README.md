@@ -66,7 +66,7 @@ node index.js
 
 O servidor estará rodando em:
 ```
-http://localhost:3000
+http://localhost:3003
 ```
 
 *(ou outra porta, dependendo da configuração)*
