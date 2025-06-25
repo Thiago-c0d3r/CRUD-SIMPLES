@@ -132,8 +132,6 @@ Se faltar algum campo, a API retorna:
 
 **Thiago Sousa**  
 Back-end Developer em formação  
-📆 Curso com foco em mercado  
-📚 Projeto construído com apoio do Jarvis (ChatGPT personalizado)
 
 ---
 
